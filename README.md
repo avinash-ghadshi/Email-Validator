@@ -2,7 +2,7 @@
 
 __USAGE:-__
 
-./validate_email <<filename>>
+./validate_email \<filename\>
 
 __EXAMPLE:-__
 
